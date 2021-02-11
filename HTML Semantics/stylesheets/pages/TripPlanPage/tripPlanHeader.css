@@ -1,0 +1,26 @@
+/* BODY HEADER */
+
+.tripPlanningHeader {
+  text-align: center;
+  padding: 5em 0em;
+  border-top: 0.1rem black solid;
+  border-bottom: 0.1rem black solid;
+}
+
+.tripPlanningHeader h1 {
+  margin-bottom: 1em;
+}
+
+.tripPlanningHeader p {
+  margin-bottom: 2em;
+}
+
+.netowrkContainer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.netowrkContainer li {
+  margin: 0 .3em;
+}

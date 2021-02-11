@@ -1,0 +1,25 @@
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.linkContainer {
+  display: flex;
+}
+
+.menuLink {
+  margin: 0.8em 1em;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.submenuContainer {
+  display: none;
+}
+
+.searchBar button {
+  background-color: white;
+  border-width: 0rem;
+}

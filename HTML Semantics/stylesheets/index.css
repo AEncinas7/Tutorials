@@ -1,0 +1,49 @@
+
+/* IMPORTS */
+/* Components */
+@import "./components/navbar.css";
+@import "./components/footer.css";
+
+/* TrioPlan Page */
+@import "./pages/TripPlanPage/tripPlanHeader.css";
+@import "./pages/TripPlanPage/tripPlanMainBody.css";
+@import "./pages/TripPlanPage/tripPlanAside.css";
+
+/* GENERAL */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html { font-size: 62.5%; }
+
+/* TYPOGRAPHY */
+
+body { 
+  font-size: 1.4rem;
+  font-family: "inconsolata";
+}
+
+.netowrkContainer i {
+  font-size: 1.8rem;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.mainContainer {
+  margin: 0em 2em;
+}
+
+/* MAIN ASIDE */
+
